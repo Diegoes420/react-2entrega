@@ -1,0 +1,24 @@
+.brand {
+    font-size: 20px;
+    margin: 0;
+}
+.icono {
+    width: 50px;
+}
+.contIcono {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.linkBrand {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #fff;
+}
+
+.linkBrand:hover {
+    color: #fff;
+}
